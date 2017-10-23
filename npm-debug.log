@@ -1,0 +1,20 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/Users/yp-tc-4816/.nvm/v0.10.34/bin/node',
+1 verbose cli   '/Users/yp-tc-4816/.nvm/v0.10.34/bin/npm',
+1 verbose cli   'run-script',
+1 verbose cli   'debug' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.34
+4 error Error: ENOENT, open '/Users/yp-tc-4816/Desktop/jiami/package.json'
+5 error If you need help, you may report this *entire* log,
+5 error including the npm and node versions, at:
+5 error     <http://github.com/npm/npm/issues>
+6 error System Darwin 16.6.0
+7 error command "/Users/yp-tc-4816/.nvm/v0.10.34/bin/node" "/Users/yp-tc-4816/.nvm/v0.10.34/bin/npm" "run-script" "debug"
+8 error cwd /Users/yp-tc-4816/Desktop/jiami
+9 error node -v v0.10.34
+10 error npm -v 1.4.28
+11 error path /Users/yp-tc-4816/Desktop/jiami/package.json
+12 error code ENOENT
+13 error errno 34
+14 verbose exit [ 34, true ]
